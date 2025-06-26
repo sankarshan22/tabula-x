@@ -1,0 +1,191 @@
+[
+ {
+  "source-FRUITS (raw)": "Apple",
+  "source-AMOUNT": "5 oz",
+  "source-CARBS (grams)": 21,
+  "target-FRUIT CARB CHART": "Apple dried",
+  "target-WEIGHT (g)": "32 g",
+  "target-COMMON MEASURE": "5 rings",
+  "target-CARBOHYDRATE (g)": 21
+ },
+ {
+  "source-FRUITS (raw)": "Apple",
+  "source-AMOUNT": "5 oz",
+  "source-CARBS (grams)": 21,
+  "target-FRUIT CARB CHART": "Apple no skin",
+  "target-WEIGHT (g)": "110 g",
+  "target-COMMON MEASURE": "1 cup",
+  "target-CARBOHYDRATE (g)": 14
+ },
+ {
+  "source-FRUITS (raw)": "Apricot",
+  "source-AMOUNT": "3 (4 oz ea.)",
+  "source-CARBS (grams)": 12,
+  "target-FRUIT CARB CHART": "Apricot raw",
+  "target-WEIGHT (g)": "35 g",
+  "target-COMMON MEASURE": "1 whole",
+  "target-CARBOHYDRATE (g)": 4
+ },
+ {
+  "source-FRUITS (raw)": "Apricot",
+  "source-AMOUNT": "3 (4 oz ea.)",
+  "source-CARBS (grams)": 12,
+  "target-FRUIT CARB CHART": "Apricot dried",
+  "target-WEIGHT (g)": "18 g",
+  "target-COMMON MEASURE": "5 halves",
+  "target-CARBOHYDRATE (g)": 11
+ },
+ {
+  "source-FRUITS (raw)": "Avocado",
+  "source-AMOUNT": "1\/2 (3 oz)",
+  "source-CARBS (grams)": 7,
+  "target-FRUIT CARB CHART": "Avocado",
+  "target-WEIGHT (g)": "29 g",
+  "target-COMMON MEASURE": "1 oz",
+  "target-CARBOHYDRATE (g)": 2
+ },
+ {
+  "source-FRUITS (raw)": "Blackberries",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 18,
+  "target-FRUIT CARB CHART": "Blackberries",
+  "target-WEIGHT (g)": "72 g",
+  "target-COMMON MEASURE": "1\/2 cup",
+  "target-CARBOHYDRATE (g)": 7
+ },
+ {
+  "source-FRUITS (raw)": "Blueberries",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 21,
+  "target-FRUIT CARB CHART": "Blueberries",
+  "target-WEIGHT (g)": "73 g",
+  "target-COMMON MEASURE": "1\/2 cup",
+  "target-CARBOHYDRATE (g)": 10
+ },
+ {
+  "source-FRUITS (raw)": "Blueberries",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 21,
+  "target-FRUIT CARB CHART": "Blueberries sweetened",
+  "target-WEIGHT (g)": "115 g",
+  "target-COMMON MEASURE": "1\/2 cup",
+  "target-CARBOHYDRATE (g)": 25
+ },
+ {
+  "source-FRUITS (raw)": "Cantaloupe",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 13,
+  "target-FRUIT CARB CHART": "Cantaloupe",
+  "target-WEIGHT (g)": "160 g",
+  "target-COMMON MEASURE": "1 cup",
+  "target-CARBOHYDRATE (g)": 13
+ },
+ {
+  "source-FRUITS (raw)": "Grapefruit",
+  "source-AMOUNT": "1\/2 (4 oz)",
+  "source-CARBS (grams)": 10,
+  "target-FRUIT CARB CHART": "Grapefruit",
+  "target-WEIGHT (g)": "123 g",
+  "target-COMMON MEASURE": "1\/2 fruit",
+  "target-CARBOHYDRATE (g)": 13
+ },
+ {
+  "source-FRUITS (raw)": "Grapes",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 16,
+  "target-FRUIT CARB CHART": "Grapes",
+  "target-WEIGHT (g)": "50 g",
+  "target-COMMON MEASURE": "10 grapes",
+  "target-CARBOHYDRATE (g)": 9
+ },
+ {
+  "source-FRUITS (raw)": "Kiwi",
+  "source-AMOUNT": "1 (2-1\/2 oz)",
+  "source-CARBS (grams)": 11,
+  "target-FRUIT CARB CHART": "Kiwi",
+  "target-WEIGHT (g)": "76 g",
+  "target-COMMON MEASURE": "1 medium",
+  "target-CARBOHYDRATE (g)": 11
+ },
+ {
+  "source-FRUITS (raw)": "Mango",
+  "source-AMOUNT": "1\/2 (3-1\/2 oz)",
+  "source-CARBS (grams)": 18,
+  "target-FRUIT CARB CHART": "Mango",
+  "target-WEIGHT (g)": "207 g",
+  "target-COMMON MEASURE": "1 mango",
+  "target-CARBOHYDRATE (g)": 31
+ },
+ {
+  "source-FRUITS (raw)": "Nectarine",
+  "source-AMOUNT": "1 (5 oz)",
+  "source-CARBS (grams)": 16,
+  "target-FRUIT CARB CHART": "Nectarines",
+  "target-WEIGHT (g)": "136 g",
+  "target-COMMON MEASURE": "1 nectarine",
+  "target-CARBOHYDRATE (g)": 14
+ },
+ {
+  "source-FRUITS (raw)": "Papaya",
+  "source-AMOUNT": "1\/2 (5-1\/2 oz)",
+  "source-CARBS (grams)": 15,
+  "target-FRUIT CARB CHART": "Papaya",
+  "target-WEIGHT (g)": "304 g",
+  "target-COMMON MEASURE": "1 papaya",
+  "target-CARBOHYDRATE (g)": 33
+ },
+ {
+  "source-FRUITS (raw)": "Peach",
+  "source-AMOUNT": "1 (3-1\/2 oz)",
+  "source-CARBS (grams)": 10,
+  "target-FRUIT CARB CHART": "Peach",
+  "target-WEIGHT (g)": "98 g",
+  "target-COMMON MEASURE": "1 peach",
+  "target-CARBOHYDRATE (g)": 9
+ },
+ {
+  "source-FRUITS (raw)": "Pear",
+  "source-AMOUNT": "1 (6 oz)",
+  "source-CARBS (grams)": 25,
+  "target-FRUIT CARB CHART": "Pear",
+  "target-WEIGHT (g)": "166 g",
+  "target-COMMON MEASURE": "1 pear",
+  "target-CARBOHYDRATE (g)": 26
+ },
+ {
+  "source-FRUITS (raw)": "Pineapple",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 19,
+  "target-FRUIT CARB CHART": "Pineapple",
+  "target-WEIGHT (g)": "47 g",
+  "target-COMMON MEASURE": "1 slice",
+  "target-CARBOHYDRATE (g)": 7
+ },
+ {
+  "source-FRUITS (raw)": "Raspberries",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 14,
+  "target-FRUIT CARB CHART": "Raspberries",
+  "target-WEIGHT (g)": "31 g",
+  "target-COMMON MEASURE": "1\/4 cup",
+  "target-CARBOHYDRATE (g)": 4
+ },
+ {
+  "source-FRUITS (raw)": "Strawberries",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 11,
+  "target-FRUIT CARB CHART": "Strawberries",
+  "target-WEIGHT (g)": "83 g",
+  "target-COMMON MEASURE": "1\/2 cup",
+  "target-CARBOHYDRATE (g)": 6
+ },
+ {
+  "source-FRUITS (raw)": "Tangerine",
+  "source-AMOUNT": "1 (3 oz)",
+  "source-CARBS (grams)": 9,
+  "target-FRUIT CARB CHART": "Tangarine",
+  "target-WEIGHT (g)": "84 g",
+  "target-COMMON MEASURE": "1 tangerine",
+  "target-CARBOHYDRATE (g)": 11
+ }
+]

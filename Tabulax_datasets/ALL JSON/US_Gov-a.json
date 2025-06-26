@@ -1,0 +1,442 @@
+[
+ {
+  "source-Name": "John Jay",
+  "source-Held Office": "Jul 30 1777; Jul 1 1801",
+  "source-Political Party": "Federalist",
+  "target-#": 2,
+  "target-Name (Tenure)": "John Jay (1795 - 1801)",
+  "target-Party": "Federalist"
+ },
+ {
+  "source-Name": "George Clinton",
+  "source-Held Office": "Jul 1 1801; Jul 1 1804",
+  "source-Political Party": "Democratic-Republican",
+  "target-#": 3,
+  "target-Name (Tenure)": "George Clinton (1801 - 1804)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Name": "Morgan Lewis",
+  "source-Held Office": "Jul 1 1804; Jul 1 1807",
+  "source-Political Party": "Democratic-Republican",
+  "target-#": 4,
+  "target-Name (Tenure)": "Morgan Lewis (1804 - 1807)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Name": "Daniel D. Tompkins",
+  "source-Held Office": "Jul 1 1807; Feb 24 1817",
+  "source-Political Party": "Democratic-Republican",
+  "target-#": 5,
+  "target-Name (Tenure)": "Daniel D. Tompkins (1807 - 1817)",
+  "target-Party": "Jeffersonian-Republican"
+ },
+ {
+  "source-Name": "John Tayler",
+  "source-Held Office": "Feb 24 1817; Jul 1 1817",
+  "source-Political Party": "Democratic-Republican",
+  "target-#": 6,
+  "target-Name (Tenure)": "John Tayler (1817 - 1817)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Name": "Joseph C. Yates",
+  "source-Held Office": "Jan 1 1823; Dec 31 1824",
+  "source-Political Party": "Democratic-Republican",
+  "target-#": 8,
+  "target-Name (Tenure)": "Joseph Christopher Yates (1823 - 1825)",
+  "target-Party": "Jeffersonian Republican"
+ },
+ {
+  "source-Name": "DeWitt Clinton",
+  "source-Held Office": "Jan 1 1825; Feb 11 1828",
+  "source-Political Party": "Clinton Republican",
+  "target-#": 9,
+  "target-Name (Tenure)": "Dewitt Clinton (1825 - 1828)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Name": "Nathaniel Pitcher",
+  "source-Held Office": "Feb 11 1828; Dec 31 1828",
+  "source-Political Party": "Democratic-Republican",
+  "target-#": 10,
+  "target-Name (Tenure)": "Nathaniel Pitcher (1828 - 1829)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Name": "Martin Van Buren",
+  "source-Held Office": "Jan 1 1829; Mar 5 1829",
+  "source-Political Party": "Jacksonian Democratic",
+  "target-#": 11,
+  "target-Name (Tenure)": "Martin Van Buren (1829)",
+  "target-Party": "Jeffersonian-Republican"
+ },
+ {
+  "source-Name": "Enos T. Throop",
+  "source-Held Office": "Mar 5 1829; Dec 31 1832",
+  "source-Political Party": "Jacksonian Democratic",
+  "target-#": 12,
+  "target-Name (Tenure)": "Enos Thompson Throop (1829 - 1833)",
+  "target-Party": "Jeffersonian-Republican"
+ },
+ {
+  "source-Name": "William L. Marcy",
+  "source-Held Office": "Jan 1 1833; Dec 31 1838",
+  "source-Political Party": "Democratic",
+  "target-#": 13,
+  "target-Name (Tenure)": "William Learned Marcy (1833 - 1839)",
+  "target-Party": "Jeffersonian Republican"
+ },
+ {
+  "source-Name": "William H. Seward",
+  "source-Held Office": "Jan 1 1839; Dec 31 1842",
+  "source-Political Party": "Whig",
+  "target-#": 14,
+  "target-Name (Tenure)": "William Henry Seward (1839 - 1843)",
+  "target-Party": "Whig"
+ },
+ {
+  "source-Name": "William C. Bouck",
+  "source-Held Office": "Jan 1 1843; Dec 31 1844",
+  "source-Political Party": "Democratic",
+  "target-#": 15,
+  "target-Name (Tenure)": "William C. Bouck (1843 - 1845)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Silas Wright",
+  "source-Held Office": "Jan 1 1845; Dec 31 1846",
+  "source-Political Party": "Democratic",
+  "target-#": 16,
+  "target-Name (Tenure)": "Silas Wright (1845 - 1847)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "John Young",
+  "source-Held Office": "Jan 1 1847; Dec 31 1848",
+  "source-Political Party": "Whig",
+  "target-#": 17,
+  "target-Name (Tenure)": "John Young (1847 - 1849)",
+  "target-Party": "Whig"
+ },
+ {
+  "source-Name": "Hamilton Fish",
+  "source-Held Office": "Jan 1 1849 -Dec 31 1850",
+  "source-Political Party": "Whig",
+  "target-#": 18,
+  "target-Name (Tenure)": "Hamilton Fish (1849 - 1851)",
+  "target-Party": "Whig"
+ },
+ {
+  "source-Name": "Washington Hunt",
+  "source-Held Office": "Jan 1 1851; Dec 31 1852",
+  "source-Political Party": "Whig",
+  "target-#": 19,
+  "target-Name (Tenure)": "Washington Hunt (1851 - 1853)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Myron H. Clark",
+  "source-Held Office": "Jan 1 1855; Dec 31 1856",
+  "source-Political Party": "Whig (Fusion)",
+  "target-#": 21,
+  "target-Name (Tenure)": "Myron Holley Clark (1855 - 1857)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "John Alsop King",
+  "source-Held Office": "Jan 1 1857; Dec 31 1858",
+  "source-Political Party": "Republican",
+  "target-#": 22,
+  "target-Name (Tenure)": "John Alsop King (1857 - 1859)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Edwin D. Morgan",
+  "source-Held Office": "Jan 1 1859; Dec 31 1862",
+  "source-Political Party": "Republican",
+  "target-#": 23,
+  "target-Name (Tenure)": "Edwin Denison Morgan (1859 - 1863)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Horatio Seymour",
+  "source-Held Office": "Jan 1 1863; Dec 31 1864",
+  "source-Political Party": "Democratic",
+  "target-#": 24,
+  "target-Name (Tenure)": "Horatio Seymour (1863 - 1865)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Reuben Fenton",
+  "source-Held Office": "Jan 1 1865; Dec 31 1868",
+  "source-Political Party": "Union",
+  "target-#": 25,
+  "target-Name (Tenure)": "Reuben Eaton Fenton (1865 - 1869)",
+  "target-Party": "Union"
+ },
+ {
+  "source-Name": "John Thompson Hoffman",
+  "source-Held Office": "Jan 1 1869; Dec 31 1872",
+  "source-Political Party": "Democratic",
+  "target-#": 26,
+  "target-Name (Tenure)": "John Thompson Hoffman (1869 - 1873)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "John Adams Dix",
+  "source-Held Office": "Jan 1 1873; Dec 31 1874",
+  "source-Political Party": "Republican",
+  "target-#": 27,
+  "target-Name (Tenure)": "John Adams Dix (1872 - 1874)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Samuel J. Tilden",
+  "source-Held Office": "Jan 1 1875; Dec 31 1876",
+  "source-Political Party": "Democratic",
+  "target-#": 28,
+  "target-Name (Tenure)": "Samuel Jones Tilden (1875 - 1877)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Lucius Robinson",
+  "source-Held Office": "Jan 1 1877; Dec 31 1879",
+  "source-Political Party": "Democratic",
+  "target-#": 29,
+  "target-Name (Tenure)": "Lucius Robinson (1877 - 1880)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Alonzo B. Cornell",
+  "source-Held Office": "Jan 1 1880; Dec 31 1882",
+  "source-Political Party": "Republican",
+  "target-#": 30,
+  "target-Name (Tenure)": "Alonzo Barton Cornell (1880 - 1883)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Grover Cleveland",
+  "source-Held Office": "Jan 1 1883; Jan 6 1885",
+  "source-Political Party": "Democratic",
+  "target-#": 31,
+  "target-Name (Tenure)": "Steven Grover Cleveland (1883 - 1885)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "David B. Hill",
+  "source-Held Office": "Jan 6 1885; Dec 31 1891",
+  "source-Political Party": "Democratic",
+  "target-#": 32,
+  "target-Name (Tenure)": "David Bennett Hill (1885 - 1892)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Roswell P. Flower",
+  "source-Held Office": "Jan 1 1892; Dec 31 1894",
+  "source-Political Party": "Democratic",
+  "target-#": 33,
+  "target-Name (Tenure)": "Roswell Pettibone Flower (1892 - 1895)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Frank S. Black",
+  "source-Held Office": "Jan 1 1897; Dec 31 1898",
+  "source-Political Party": "Republican",
+  "target-#": 34,
+  "target-Name (Tenure)": "Frank Swett Black (1897 - 1899)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Theodore Roosevelt",
+  "source-Held Office": "JJan 1 1899; Dec 31 1900",
+  "source-Political Party": "Republican",
+  "target-#": 35,
+  "target-Name (Tenure)": "Theodore Roosevelt (1899 - 1901)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Benjamin Barker Odell Jr",
+  "source-Held Office": "Jan 1 1901; Dec 31 1904",
+  "source-Political Party": "Republican",
+  "target-#": 36,
+  "target-Name (Tenure)": "Benjamin Baker Odell (1901 - 1905)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Frank W. Higgins",
+  "source-Held Office": "Jan 1 1905; Dec 31 1906",
+  "source-Political Party": "Republican",
+  "target-#": 37,
+  "target-Name (Tenure)": "Francis Wayland Higgins (1905 - 1907)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Charles Evans Hughes",
+  "source-Held Office": "Jan 1 1907; Oct 6 1910",
+  "source-Political Party": "Republican",
+  "target-#": 38,
+  "target-Name (Tenure)": "Charles Evans Hughes (1907 - 1910)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Horace White",
+  "source-Held Office": "Oct 6 1910; Dec 31 1910",
+  "source-Political Party": "Republican",
+  "target-#": 39,
+  "target-Name (Tenure)": "Horace White (1910 - 1911)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "John Alden Dix",
+  "source-Held Office": "Jan 1 1911; Dec 31 1912",
+  "source-Political Party": "Democratic",
+  "target-#": 40,
+  "target-Name (Tenure)": "John Alden Dix (1910 - 1912)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "William Sulzer",
+  "source-Held Office": "Jan 1 1913; Oct 17 1913",
+  "source-Political Party": "Democratic",
+  "target-#": 41,
+  "target-Name (Tenure)": "William Sulzer (1913 - 1913)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Martin H. Glynn",
+  "source-Held Office": "Oct 17 1913; Dec 31 1914",
+  "source-Political Party": "Democratic",
+  "target-#": 42,
+  "target-Name (Tenure)": "Martin Henry Glynn (1913 - 1915)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Charles S. Whitman",
+  "source-Held Office": "Jan 1 1915; Dec 31 1918",
+  "source-Political Party": "Republican",
+  "target-#": 43,
+  "target-Name (Tenure)": "Charles Seymour Whitman (1915 - 1919)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Nathan Lewis Miller",
+  "source-Held Office": "Jan 1 1921; Dec 31 1922",
+  "source-Political Party": "Republican",
+  "target-#": 45,
+  "target-Name (Tenure)": "Nathan Lewis Miller (1921 - 1923)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Al Smith",
+  "source-Held Office": "Jan 1 1923; Dec 31 1928",
+  "source-Political Party": "Democratic",
+  "target-#": 46,
+  "target-Name (Tenure)": "Alfred Emanuel Smith (1923 - 1929)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Franklin D. Roosevelt",
+  "source-Held Office": "Jan 1 1929; Dec 31 1932",
+  "source-Political Party": "Democratic",
+  "target-#": 47,
+  "target-Name (Tenure)": "Franklin Delano Roosevelt (1929 - 1933)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Herbert H. Lehman",
+  "source-Held Office": "Jan 1 1933; Dec 3 1942",
+  "source-Political Party": "Democratic",
+  "target-#": 48,
+  "target-Name (Tenure)": "Herbert Henry Lehman (1933 - 1942)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Charles Poletti",
+  "source-Held Office": "Dec 3 1942; Dec 31 1942",
+  "source-Political Party": "Democratic",
+  "target-#": 49,
+  "target-Name (Tenure)": "Charles Poletti (1942 - 1943)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Thomas Dewey",
+  "source-Held Office": "Jan 1 1943; Dec 31 1954",
+  "source-Political Party": "Republican",
+  "target-#": 50,
+  "target-Name (Tenure)": "Thomas Edmund Dewey (1943 - 1955)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "W. Averell Harriman",
+  "source-Held Office": "Jan 1 1955; Dec 31 1958",
+  "source-Political Party": "Democratic",
+  "target-#": 51,
+  "target-Name (Tenure)": "William Averell Harriman (1955 - 1959)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Nelson Rockefeller",
+  "source-Held Office": "Jan 1 1959; Dec 18 1973",
+  "source-Political Party": "Republican",
+  "target-#": 52,
+  "target-Name (Tenure)": "Nelson Aldrich Rockefeller (1959 - 1973)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Malcolm Wilson",
+  "source-Held Office": "Dec 18 1973; Dec 31 1974",
+  "source-Political Party": "Republican",
+  "target-#": 53,
+  "target-Name (Tenure)": "Malcolm Wilson (1973 - 1975)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Hugh Carey",
+  "source-Held Office": "Jan 1 1975; Dec 31 1982",
+  "source-Political Party": "Democratic",
+  "target-#": 54,
+  "target-Name (Tenure)": "Hugh Leo Carey (1974 - 1982)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Mario Cuomo",
+  "source-Held Office": "Jan 1 1983; Dec 31 1994",
+  "source-Political Party": "Democratic",
+  "target-#": 55,
+  "target-Name (Tenure)": "Mario Matthew Cuomo (1983 - 1995)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "George Pataki",
+  "source-Held Office": "Jan 1 1995; Dec 31 2006",
+  "source-Political Party": "Republican",
+  "target-#": 56,
+  "target-Name (Tenure)": "George Pataki (1995 - 2007)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Name": "Eliot Spitzer",
+  "source-Held Office": "Jan 1 2007; Mar 17 2008",
+  "source-Political Party": "Democratic",
+  "target-#": 57,
+  "target-Name (Tenure)": "Eliot Spitzer (2007 - 2008)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "David Paterson",
+  "source-Held Office": "Mar 17 2008; Jan 1 2011",
+  "source-Political Party": "Democratic",
+  "target-#": 58,
+  "target-Name (Tenure)": "David Paterson (2008 - 2011)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Name": "Andrew Cuomo",
+  "source-Held Office": "Jan 1 2011; Incumbent",
+  "source-Political Party": "Democratic",
+  "target-#": 59,
+  "target-Name (Tenure)": "Andrew Cuomo (2011 - present)",
+  "target-Party": "Democratic"
+ }
+]

@@ -1,0 +1,524 @@
+[
+ {
+  "source-Governor": "George Clinton; (26 Jul 1739 - 20 Apr 1812)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Ulster County",
+  "source-Term": "1777-1795",
+  "source-Party": "Democratic-Republican",
+  "target-#": 1,
+  "target-Name (Tenure)": "George Clinton (1777 - 1795)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Governor": "John Jay; (12 Dec 1745 - 17 May 1829)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1795-1801",
+  "source-Party": "Federalist",
+  "target-#": 2,
+  "target-Name (Tenure)": "John Jay (1795 - 1801)",
+  "target-Party": "Federalist"
+ },
+ {
+  "source-Governor": "George Clinton; (26 Jul 1739 - 20 Apr 1812)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Ulster County",
+  "source-Term": "1801-1804",
+  "source-Party": "Democratic-Republican",
+  "target-#": 3,
+  "target-Name (Tenure)": "George Clinton (1801 - 1804)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Governor": "Morgan Lewis; (16 Oct 1754 - 7 Apr 1844)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Dutchess County",
+  "source-Term": "1804-1807",
+  "source-Party": "Democratic-Republican",
+  "target-#": 4,
+  "target-Name (Tenure)": "Morgan Lewis (1804 - 1807)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Governor": "Daniel D. Tompkins; (21 Jun 1774 - 11 Jun 1825)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Richmond County",
+  "source-Term": "1807-1817",
+  "source-Party": "Democratic-Republican",
+  "target-#": 5,
+  "target-Name (Tenure)": "Daniel D. Tompkins (1807 - 1817)",
+  "target-Party": "Jeffersonian-Republican"
+ },
+ {
+  "source-Governor": "John Tayler; (4 Jul 1742 - 19 Mar 1829)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Albany",
+  "source-Term": 1817,
+  "source-Party": "Democratic-Republican",
+  "target-#": 6,
+  "target-Name (Tenure)": "John Tayler (1817 - 1817)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Governor": "De Witt Clinton; (2 Mar 1769 - 11 Feb 1828)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1817-1823",
+  "source-Party": "Democratic-Republican",
+  "target-#": 7,
+  "target-Name (Tenure)": "Dewitt Clinton (1817 - 1823)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Governor": "Joseph C. Yates; (9 Nov 1768 - 19 Mar 1837)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Schenectady",
+  "source-Term": "1823-1825",
+  "source-Party": "Democratic-Republican",
+  "target-#": 8,
+  "target-Name (Tenure)": "Joseph C. Yates (1823 - 1825)",
+  "target-Party": "Jeffersonian Republican"
+ },
+ {
+  "source-Governor": "De Witt Clinton; (2 Mar 1769 - 11 Feb 1828)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1825-1828",
+  "source-Party": "Clinton Republican",
+  "target-#": 9,
+  "target-Name (Tenure)": "Dewitt Clinton (1825 - 1828)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Governor": "Nathaniel Pitcher; (1777 - 1836)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Sandy Hill",
+  "source-Term": "1828-1829",
+  "source-Party": "Democratic-Republican",
+  "target-#": 10,
+  "target-Name (Tenure)": "Nathaniel Pitcher (1828 - 1829)",
+  "target-Party": "Democratic-Republican"
+ },
+ {
+  "source-Governor": "Martin Van Buren; (5 Dec 1782 - 24 Jul 1862)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Kinderhook",
+  "source-Term": 1829,
+  "source-Party": "Jacksonian Democratic",
+  "target-#": 11,
+  "target-Name (Tenure)": "Martin Van Buren (1829)",
+  "target-Party": "Jeffersonian-Republican"
+ },
+ {
+  "source-Governor": "Enos T. Throop; (21 Aug 1784 - 1 Nov 1874)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Auburn",
+  "source-Term": "1829-1833",
+  "source-Party": "Jacksonian Democratic",
+  "target-#": 12,
+  "target-Name (Tenure)": "Enos Thompson Throop (1829 - 1833)",
+  "target-Party": "Jeffersonian-Republican"
+ },
+ {
+  "source-Governor": "William L. Marcy; (12 Dec 1786 - 4 Jul 1857)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Troy",
+  "source-Term": "1833-1839",
+  "source-Party": "Democratic",
+  "target-#": 13,
+  "target-Name (Tenure)": "William L. Marcy (1833 - 1839)",
+  "target-Party": "Jeffersonian Republican"
+ },
+ {
+  "source-Governor": "William H. Seward; (16 May 1801 – 10 Oct 1872)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Auburn",
+  "source-Term": "1839-1843",
+  "source-Party": "Whig",
+  "target-#": 14,
+  "target-Name (Tenure)": "William H. Seward (1839 - 1843)",
+  "target-Party": "Whig"
+ },
+ {
+  "source-Governor": "William C. Bouck; (1796 – 1859)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Fultonham",
+  "source-Term": "1843-1845",
+  "source-Party": "Democratic",
+  "target-#": 15,
+  "target-Name (Tenure)": "William C. Bouck (1843 - 1845)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Silas Wright; (24 May 1795 – 27 Aug 1847)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Canton",
+  "source-Term": "1845-1847",
+  "source-Party": "Democratic",
+  "target-#": 16,
+  "target-Name (Tenure)": "Silas Wright (1845 - 1847)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "John Young; (12 Jun 1802 – 23 Apr 1852)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Geneseo",
+  "source-Term": "1847-1849",
+  "source-Party": "Whig",
+  "target-#": 17,
+  "target-Name (Tenure)": "John Young (1847 - 1849)",
+  "target-Party": "Whig"
+ },
+ {
+  "source-Governor": "Hamilton Fish; (3 Aug 1808 – 7 Sep 1893)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1849-1851",
+  "source-Party": "Whig",
+  "target-#": 18,
+  "target-Name (Tenure)": "Hamilton Fish (1849 - 1851)",
+  "target-Party": "Whig"
+ },
+ {
+  "source-Governor": "Washington Hunt; (1811 – 1867)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Lockport",
+  "source-Term": "1851-1853",
+  "source-Party": "Whig Anti-Rent",
+  "target-#": 19,
+  "target-Name (Tenure)": "Washington Hunt (1851 - 1853)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Horatio Seymour; (31 May 1810 – 12 Feb 1886)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Deerfield",
+  "source-Term": "1853-1855",
+  "source-Party": "Democratic",
+  "target-#": 20,
+  "target-Name (Tenure)": "Horatio Seymour (1853 - 1855)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Myron H. Clark; (1806 – 1892)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Canandaigua",
+  "source-Term": "1855-1857",
+  "source-Party": "Fusion Republican",
+  "target-#": 21,
+  "target-Name (Tenure)": "Myron H. Clark (1855 - 1857)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "John A. King; (1788 – 1867)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Queens County",
+  "source-Term": "1857-1859",
+  "source-Party": "Republican",
+  "target-#": 22,
+  "target-Name (Tenure)": "John Alsop King (1857 - 1859)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Edwin D. Morgan; (8 Feb 1811 – 14 Feb 1883)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1859-1863",
+  "source-Party": "Republican",
+  "target-#": 23,
+  "target-Name (Tenure)": "Edwin Denison Morgan (1859 - 1863)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Horatio Seymour; (31 May 1810 – 12 Feb 1886)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Deerfield",
+  "source-Term": "1863-1865",
+  "source-Party": "Democratic",
+  "target-#": 24,
+  "target-Name (Tenure)": "Horatio Seymour (1863 - 1865)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Reuben E. Fenton; (4 Jul 1819 – 15 Aug 1885)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Frewsburg",
+  "source-Term": "1865-1869",
+  "source-Party": "Union",
+  "target-#": 25,
+  "target-Name (Tenure)": "Reuben E. Fenton (1865 - 1869)",
+  "target-Party": "Union"
+ },
+ {
+  "source-Governor": "John T. Hoffman; (10 Jan 1828 – 24 Mar 1888)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1869-1873",
+  "source-Party": "Democratic",
+  "target-#": 26,
+  "target-Name (Tenure)": "John Thompson Hoffman (1869 - 1873)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "John Adams Dix; (24 Jul 1798 – 21 Apr 1879)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1873-1874",
+  "source-Party": "Republican",
+  "target-#": 27,
+  "target-Name (Tenure)": "John Adams Dix (1872 - 1874)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Samuel J. Tilden; (9 Feb 1814 – 4 Aug 1886)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1875-1877",
+  "source-Party": "Democratic",
+  "target-#": 28,
+  "target-Name (Tenure)": "Samuel J. Tilden (1875 - 1877)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Lucius Robinson; (4 Nov 1810 – 23 May 1886)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Elmira",
+  "source-Term": "1877-1880",
+  "source-Party": "Democratic",
+  "target-#": 29,
+  "target-Name (Tenure)": "Lucius Robinson (1877 - 1880)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Alonzo B. Cornell; (22 Jan 1832 – 15 Oct 1904)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1880-1883",
+  "source-Party": "Republican",
+  "target-#": 30,
+  "target-Name (Tenure)": "Alonzo Barton Cornell (1880 - 1883)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Grover Cleveland; (18 Mar 1837 – 24 Jun 1908)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Buffalo",
+  "source-Term": "1883-1885",
+  "source-Party": "Democratic",
+  "target-#": 31,
+  "target-Name (Tenure)": "Grover Cleveland (1883 - 1885)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "David B. Hill; (29 Aug 1843 – 20 Oct 1910)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Elmira",
+  "source-Term": "1885-1892",
+  "source-Party": "Democratic",
+  "target-#": 32,
+  "target-Name (Tenure)": "David Bennett Hill (1885 - 1892)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Roswell P. Flower; (7 Aug 1835 – 12 May 1899)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1892-1895",
+  "source-Party": "Democratic",
+  "target-#": 33,
+  "target-Name (Tenure)": "Roswell Pettibone Flower (1892 - 1895)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Frank S. Black; (8 Mar 1853 – 22 Mar 1913)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Troy",
+  "source-Term": "1897-1899",
+  "source-Party": "Republican",
+  "target-#": 34,
+  "target-Name (Tenure)": "Frank Swett Black (1897 - 1899)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Theodore Roosevelt; (27 Oct 1858 – 6 Jan 1919)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Oyster Bay",
+  "source-Term": "1899-1901",
+  "source-Party": "Republican",
+  "target-#": 35,
+  "target-Name (Tenure)": "Theodore Roosevelt (1899 - 1901)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Frank W. Higgins; (18 Aug 1856 – 12 Feb 1907)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Olean",
+  "source-Term": "1905-1907",
+  "source-Party": "Republican",
+  "target-#": 37,
+  "target-Name (Tenure)": "Francis Wayland Higgins (1905 - 1907)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Charles Evans Hughes; (11 Apr 1862 – 27 Aug 1948)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1897-1910",
+  "source-Party": "Republican",
+  "target-#": 38,
+  "target-Name (Tenure)": "Charles Evans Hughes (1907 - 1910)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Horace White; (7 Oct 1865 – 26 Nov 1943)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Syracuse",
+  "source-Term": "1910-1911",
+  "source-Party": "Republican",
+  "target-#": 39,
+  "target-Name (Tenure)": "Horace White (1910 - 1911)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "John Alden Dix; (25 Dec 1860 – 9 Apr 1928)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Thompson",
+  "source-Term": "1911-1912",
+  "source-Party": "Democratic",
+  "target-#": 40,
+  "target-Name (Tenure)": "John Alden Dix (1910 - 1912)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "William Sulzer; (18 Mar 1863 – 6 Nov 1941)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": 1913,
+  "source-Party": "Democratic",
+  "target-#": 41,
+  "target-Name (Tenure)": "William Sulzer (1913 - 1913)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Martin H. Glynn; (27 Sep 1871 – 14 Dec 1924)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Albany",
+  "source-Term": "1913-1915",
+  "source-Party": "Democratic",
+  "target-#": 42,
+  "target-Name (Tenure)": "Martin Henry Glynn (1913 - 1915)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Charles S. Whitman; (29 Sep 1868 – 29 Mar 1947)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1915-1919",
+  "source-Party": "Republican",
+  "target-#": 43,
+  "target-Name (Tenure)": "Charles S. Whitman (1915 - 1919)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Alfred E. Smith; (30 Dec 1873 – 4 Oct 1944)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1919-1921",
+  "source-Party": "Democratic",
+  "target-#": 44,
+  "target-Name (Tenure)": "Alfred Emanuel Smith (1919 - 1921)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Nathan L. Miller; (30 Jan 1882 – 12 Apr 1945)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Syracuse",
+  "source-Term": "1921-1923",
+  "source-Party": "Republican",
+  "target-#": 45,
+  "target-Name (Tenure)": "Nathan L. Miller (1921 - 1923)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Alfred E. Smith; (30 Dec 1873 – 4 Oct 1944)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1923-1929",
+  "source-Party": "Democratic",
+  "target-#": 46,
+  "target-Name (Tenure)": "Alfred Emanuel Smith (1923 - 1929)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Franklin D. Roosevelt; (30 Jan 1882 – 12 Apr 1945)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Hyde Park",
+  "source-Term": "1929-1933",
+  "source-Party": "Democratic",
+  "target-#": 47,
+  "target-Name (Tenure)": "Franklin Delano Roosevelt (1929 - 1933)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Herbert H. Lehman; (28 Mar 1878 – 5 Dec 1963)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1933-1942",
+  "source-Party": "Democratic",
+  "target-#": 48,
+  "target-Name (Tenure)": "Herbert H. Lehman (1933 - 1942)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Charles Poletti; (2 Jul 1903 – 8 Aug 2002)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1942-1943",
+  "source-Party": "Democratic",
+  "target-#": 49,
+  "target-Name (Tenure)": "Charles Poletti (1942 - 1943)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Thomas E. Dewey; (24 Mar 1902 – 16 Mar 1971)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "New York City",
+  "source-Term": "1943-1955",
+  "source-Party": "Republican",
+  "target-#": 50,
+  "target-Name (Tenure)": "Thomas Edmund Dewey (1943 - 1955)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "W. Averell Harriman; (15 Nov 1891 – 26 Jul 1986)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Harriman",
+  "source-Term": "1955-1959",
+  "source-Party": "Democratic",
+  "target-#": 51,
+  "target-Name (Tenure)": "William Averell Harriman (1955 - 1959)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Nelson A. Rockefeller; (8 July 1908 – 26 Jan 1979)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Tarrytown",
+  "source-Term": "1959-1973",
+  "source-Party": "Republican",
+  "target-#": 52,
+  "target-Name (Tenure)": "Nelson Aldrich Rockefeller (1959 - 1973)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Malcolm Wilson; (26 Feb 1914 – 13 Mar 2000)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Yonkers",
+  "source-Term": "1973-1975",
+  "source-Party": "Republican",
+  "target-#": 53,
+  "target-Name (Tenure)": "Malcolm Wilson (1973 - 1975)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Hugh L. Carey; (11 Apr 1919 -)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Brooklyn",
+  "source-Term": "1975-1983",
+  "source-Party": "Democratic",
+  "target-#": 54,
+  "target-Name (Tenure)": "Hugh Leo Carey (1974 - 1983)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Mario M. Cuomo; (15 Jun 1932 -)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Queens",
+  "source-Term": "1983-1995",
+  "source-Party": "Democratic",
+  "target-#": 55,
+  "target-Name (Tenure)": "Mario Matthew Cuomo (1983 - 1995)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "George E. Pataki; (24 Jun 1945 -)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Garrison",
+  "source-Term": "1995-2007",
+  "source-Party": "Republican",
+  "target-#": 56,
+  "target-Name (Tenure)": "George Pataki (1995 - 2007)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Eliot Spitzer; (10 June 1959 -)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "The Bronx",
+  "source-Term": "2007-2008",
+  "source-Party": "Democratic",
+  "target-#": 57,
+  "target-Name (Tenure)": "Eliot Spitzer (2007 - 2008)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "David Paterson; (20 May 1954 -)",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Brooklyn",
+  "source-Term": "2008-2010",
+  "source-Party": "Democratic",
+  "target-#": 58,
+  "target-Name (Tenure)": "David Paterson (2008 - 2011)",
+  "target-Party": "Democratic"
+ },
+ {
+  "source-Governor": "Andrew Cuomo",
+  "source-Home Town (According to the official N.Y. State Governor's website)": "Queens",
+  "source-Term": 2010,
+  "source-Party": "Democratic",
+  "target-#": 59,
+  "target-Name (Tenure)": "Andrew Cuomo (2011 - present)",
+  "target-Party": "Democratic"
+ }
+]

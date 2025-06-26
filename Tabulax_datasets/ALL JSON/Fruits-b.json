@@ -1,0 +1,170 @@
+[
+ {
+  "source-FRUITS (raw)": "Apple",
+  "source-AMOUNT": "5 oz",
+  "source-CARBS (grams)": 21,
+  "target-Per single fruit or the portion stated": "Apple (with the peel)",
+  "target-Calories per fruit or the portion stated": 81,
+  "target-Carbohydrates per fruit or the portion stated": 21
+ },
+ {
+  "source-FRUITS (raw)": "Apricot",
+  "source-AMOUNT": "3 (4 oz ea.)",
+  "source-CARBS (grams)": 12,
+  "target-Per single fruit or the portion stated": "Apricot",
+  "target-Calories per fruit or the portion stated": 17,
+  "target-Carbohydrates per fruit or the portion stated": 4
+ },
+ {
+  "source-FRUITS (raw)": "Avocado",
+  "source-AMOUNT": "1\/2 (3 oz)",
+  "source-CARBS (grams)": 7,
+  "target-Per single fruit or the portion stated": "Avocado",
+  "target-Calories per fruit or the portion stated": 306,
+  "target-Carbohydrates per fruit or the portion stated": 12
+ },
+ {
+  "source-FRUITS (raw)": "Blackberries",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 18,
+  "target-Per single fruit or the portion stated": "Blackberries (½ cup)",
+  "target-Calories per fruit or the portion stated": 37,
+  "target-Carbohydrates per fruit or the portion stated": 9
+ },
+ {
+  "source-FRUITS (raw)": "Blueberries",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 21,
+  "target-Per single fruit or the portion stated": "Blueberries fresh (½ cup)",
+  "target-Calories per fruit or the portion stated": 41,
+  "target-Carbohydrates per fruit or the portion stated": 10
+ },
+ {
+  "source-FRUITS (raw)": "Cantaloupe",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 13,
+  "target-Per single fruit or the portion stated": "Melon Canteloupe (1 half)",
+  "target-Calories per fruit or the portion stated": 94,
+  "target-Carbohydrates per fruit or the portion stated": 22
+ },
+ {
+  "source-FRUITS (raw)": "Cranberries",
+  "source-AMOUNT": "1\/2 cup",
+  "source-CARBS (grams)": 6,
+  "target-Per single fruit or the portion stated": "Cranberries fresh raw (½ cup)",
+  "target-Calories per fruit or the portion stated": 23,
+  "target-Carbohydrates per fruit or the portion stated": 6
+ },
+ {
+  "source-FRUITS (raw)": "Grapefruit",
+  "source-AMOUNT": "1\/2 (4 oz)",
+  "source-CARBS (grams)": 10,
+  "target-Per single fruit or the portion stated": "Grapefruit (1 medium half)",
+  "target-Calories per fruit or the portion stated": 46,
+  "target-Carbohydrates per fruit or the portion stated": 12
+ },
+ {
+  "source-FRUITS (raw)": "Grapes",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 16,
+  "target-Per single fruit or the portion stated": "Grapes (10 medium seedless)",
+  "target-Calories per fruit or the portion stated": 36,
+  "target-Carbohydrates per fruit or the portion stated": 9
+ },
+ {
+  "source-FRUITS (raw)": "Guava",
+  "source-AMOUNT": "1 (3 oz)",
+  "source-CARBS (grams)": 11,
+  "target-Per single fruit or the portion stated": "Guava (½ cup)",
+  "target-Calories per fruit or the portion stated": 42,
+  "target-Carbohydrates per fruit or the portion stated": 10
+ },
+ {
+  "source-FRUITS (raw)": "Kiwi",
+  "source-AMOUNT": "1 (2-1\/2 oz)",
+  "source-CARBS (grams)": 11,
+  "target-Per single fruit or the portion stated": "Kiwi (medium)",
+  "target-Calories per fruit or the portion stated": 46,
+  "target-Carbohydrates per fruit or the portion stated": 11
+ },
+ {
+  "source-FRUITS (raw)": "Mango",
+  "source-AMOUNT": "1\/2 (3-1\/2 oz)",
+  "source-CARBS (grams)": 18,
+  "target-Per single fruit or the portion stated": "Mango fresh",
+  "target-Calories per fruit or the portion stated": 135,
+  "target-Carbohydrates per fruit or the portion stated": 35
+ },
+ {
+  "source-FRUITS (raw)": "Nectarine",
+  "source-AMOUNT": "1 (5 oz)",
+  "source-CARBS (grams)": 16,
+  "target-Per single fruit or the portion stated": "Nectarine (medium)",
+  "target-Calories per fruit or the portion stated": 67,
+  "target-Carbohydrates per fruit or the portion stated": 16
+ },
+ {
+  "source-FRUITS (raw)": "Orange",
+  "source-AMOUNT": "1 (4-1\/2 oz)",
+  "source-CARBS (grams)": 15,
+  "target-Per single fruit or the portion stated": "Orange",
+  "target-Calories per fruit or the portion stated": 65,
+  "target-Carbohydrates per fruit or the portion stated": 16
+ },
+ {
+  "source-FRUITS (raw)": "Papaya",
+  "source-AMOUNT": "1\/2 (5-1\/2 oz)",
+  "source-CARBS (grams)": 15,
+  "target-Per single fruit or the portion stated": "Papaya (½ cup cubed)",
+  "target-Calories per fruit or the portion stated": 27,
+  "target-Carbohydrates per fruit or the portion stated": 7
+ },
+ {
+  "source-FRUITS (raw)": "Peach",
+  "source-AMOUNT": "1 (3-1\/2 oz)",
+  "source-CARBS (grams)": 10,
+  "target-Per single fruit or the portion stated": "Peach",
+  "target-Calories per fruit or the portion stated": 37,
+  "target-Carbohydrates per fruit or the portion stated": 10
+ },
+ {
+  "source-FRUITS (raw)": "Pear",
+  "source-AMOUNT": "1 (6 oz)",
+  "source-CARBS (grams)": 25,
+  "target-Per single fruit or the portion stated": "Pear (medium)",
+  "target-Calories per fruit or the portion stated": 98,
+  "target-Carbohydrates per fruit or the portion stated": 25
+ },
+ {
+  "source-FRUITS (raw)": "Pineapple",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 19,
+  "target-Per single fruit or the portion stated": "Pineapple fresh (½ cup cubed)",
+  "target-Calories per fruit or the portion stated": 39,
+  "target-Carbohydrates per fruit or the portion stated": 10
+ },
+ {
+  "source-FRUITS (raw)": "Raspberries",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 14,
+  "target-Per single fruit or the portion stated": "Raspberry (½ cup)",
+  "target-Calories per fruit or the portion stated": 31,
+  "target-Carbohydrates per fruit or the portion stated": 7
+ },
+ {
+  "source-FRUITS (raw)": "Strawberries",
+  "source-AMOUNT": "1 cup",
+  "source-CARBS (grams)": 11,
+  "target-Per single fruit or the portion stated": "Strawberries (½ cup)",
+  "target-Calories per fruit or the portion stated": 23,
+  "target-Carbohydrates per fruit or the portion stated": 5
+ },
+ {
+  "source-FRUITS (raw)": "Tangerine",
+  "source-AMOUNT": "1 (3 oz)",
+  "source-CARBS (grams)": 9,
+  "target-Per single fruit or the portion stated": "Tangerine",
+  "target-Calories per fruit or the portion stated": 37,
+  "target-Carbohydrates per fruit or the portion stated": 9
+ }
+]

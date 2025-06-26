@@ -1,0 +1,438 @@
+[
+ {
+  "source-State": "Virginia",
+  "source-Presidents per state": 5,
+  "source-Presidents": "George Washington*",
+  "source-#th President": 1,
+  "target-President": "1. George Washington (1732-1799)",
+  "target-Party": "None Federalist",
+  "target-Term as President": "1789-1797",
+  "target-Vice-President": "John Adams"
+ },
+ {
+  "source-State": "Massachusetts",
+  "source-Presidents per state": 4,
+  "source-Presidents": "John Adams*",
+  "source-#th President": 2,
+  "target-President": "2. John Adams (1735-1826)",
+  "target-Party": "Federalist",
+  "target-Term as President": "1797-1801",
+  "target-Vice-President": "Thomas Jefferson"
+ },
+ {
+  "source-State": "Virginia",
+  "source-Presidents per state": 5,
+  "source-Presidents": "Thomas Jefferson*",
+  "source-#th President": 3,
+  "target-President": "3. Thomas Jefferson (1743-1826)",
+  "target-Party": "Democratic-Republican",
+  "target-Term as President": "1801-1809",
+  "target-Vice-President": "Aaron Burr George Clinton"
+ },
+ {
+  "source-State": "Virginia",
+  "source-Presidents per state": 5,
+  "source-Presidents": "James Madison*",
+  "source-#th President": 4,
+  "target-President": "4. James Madison (1751-1836)",
+  "target-Party": "Democratic-Republican",
+  "target-Term as President": "1809-1817",
+  "target-Vice-President": "George Clinton Elbridge Gerry"
+ },
+ {
+  "source-State": "Virginia",
+  "source-Presidents per state": 5,
+  "source-Presidents": "James Monroe*",
+  "source-#th President": 5,
+  "target-President": "5. James Monroe (1758-1831)",
+  "target-Party": "Democratic-Republican",
+  "target-Term as President": "1817-1825",
+  "target-Vice-President": "Daniel Tompkins"
+ },
+ {
+  "source-State": "Massachusetts",
+  "source-Presidents per state": 4,
+  "source-Presidents": "John Quincy Adams*",
+  "source-#th President": 6,
+  "target-President": "6. John Quincy Adams (1767-1848)",
+  "target-Party": "Democratic-Republican",
+  "target-Term as President": "1825-1829",
+  "target-Vice-President": "John Calhoun"
+ },
+ {
+  "source-State": "Tennessee",
+  "source-Presidents per state": 3,
+  "source-Presidents": "Andrew Jackson*",
+  "source-#th President": 7,
+  "target-President": "7. Andrew Jackson (1767-1845)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1829-1837",
+  "target-Vice-President": "John Calhoun Martin van Buren"
+ },
+ {
+  "source-State": "New York",
+  "source-Presidents per state": 6,
+  "source-Presidents": "Martin van Buren*",
+  "source-#th President": 8,
+  "target-President": "8. Martin van Buren (1782-1862)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1837-1841",
+  "target-Vice-President": "Richard Johnson"
+ },
+ {
+  "source-State": "Ohio",
+  "source-Presidents per state": 6,
+  "source-Presidents": "William Henry Harrison*",
+  "source-#th President": 9,
+  "target-President": "9. William Henry Harrison (1773-1841)",
+  "target-Party": "Whig",
+  "target-Term as President": 1841,
+  "target-Vice-President": "John Tyler"
+ },
+ {
+  "source-State": "Virginia",
+  "source-Presidents per state": 5,
+  "source-Presidents": "John Tyler*",
+  "source-#th President": 10,
+  "target-President": "10. John Tyler (1790-1862)",
+  "target-Party": "Whig",
+  "target-Term as President": "1841-1845"
+ },
+ {
+  "source-State": "Tennessee",
+  "source-Presidents per state": 3,
+  "source-Presidents": "James Polk*",
+  "source-#th President": 11,
+  "target-President": "11. James K. Polk (1795-1849)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1845-1849",
+  "target-Vice-President": "George Dallas"
+ },
+ {
+  "source-State": "Louisiana",
+  "source-Presidents per state": 1,
+  "source-Presidents": "Zachary Taylor*",
+  "source-#th President": 12,
+  "target-President": "12. Zachary Taylor (1784-1850)",
+  "target-Party": "Whig",
+  "target-Term as President": "1849-1850",
+  "target-Vice-President": "Millard Fillmore"
+ },
+ {
+  "source-State": "New York",
+  "source-Presidents per state": 6,
+  "source-Presidents": "Millard Fillmore*",
+  "source-#th President": 13,
+  "target-President": "13. Millard Fillmore (1800-1874)",
+  "target-Party": "Whig",
+  "target-Term as President": "1850-1853"
+ },
+ {
+  "source-State": "New Hampshire",
+  "source-Presidents per state": 1,
+  "source-Presidents": "Franklin Pierce*",
+  "source-#th President": 14,
+  "target-President": "14. Franklin Pierce (1804-1869)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1853-1857",
+  "target-Vice-President": "William King"
+ },
+ {
+  "source-State": "Pennsylvania",
+  "source-Presidents per state": 1,
+  "source-Presidents": "James Buchanan*",
+  "source-#th President": 15,
+  "target-President": "15. James Buchanan (1791-1868)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1857-1861",
+  "target-Vice-President": "John Breckinridge"
+ },
+ {
+  "source-State": "Illinois",
+  "source-Presidents per state": 3,
+  "source-Presidents": "Abraham Lincoln*",
+  "source-#th President": 16,
+  "target-President": "16. Abraham Lincoln (1809-1865)",
+  "target-Party": "Republican",
+  "target-Term as President": "1861-1865",
+  "target-Vice-President": "Hannibal Hamlin Andrew Johnson"
+ },
+ {
+  "source-State": "Tennessee",
+  "source-Presidents per state": 3,
+  "source-Presidents": "Andrew Johnson*",
+  "source-#th President": 17,
+  "target-President": "17. Andrew Johnson (1808-1875)",
+  "target-Party": "National Union",
+  "target-Term as President": "1865-1869"
+ },
+ {
+  "source-State": "Illinois",
+  "source-Presidents per state": 3,
+  "source-Presidents": "Ulysses Grant*",
+  "source-#th President": 18,
+  "target-President": "18. Ulysses S. Grant (1822-1885)",
+  "target-Party": "Republican",
+  "target-Term as President": "1869-1877",
+  "target-Vice-President": "Schuyler Colfax"
+ },
+ {
+  "source-State": "Ohio",
+  "source-Presidents per state": 6,
+  "source-Presidents": "Rutherford Hayes*",
+  "source-#th President": 19,
+  "target-President": "19. Rutherford B. Hayes (1822-1893)",
+  "target-Party": "Republican",
+  "target-Term as President": "1877-1881",
+  "target-Vice-President": "William Wheeler"
+ },
+ {
+  "source-State": "Ohio",
+  "source-Presidents per state": 6,
+  "source-Presidents": "James Garfield*",
+  "source-#th President": 20,
+  "target-President": "20. James A. Garfield (1831-1881)",
+  "target-Party": "Republican",
+  "target-Term as President": 1881,
+  "target-Vice-President": "Chester Arthur"
+ },
+ {
+  "source-State": "New York",
+  "source-Presidents per state": 6,
+  "source-Presidents": "Chester Arthur*",
+  "source-#th President": 21,
+  "target-President": "21. Chester A. Arthur (1829-1886)",
+  "target-Party": "Republican",
+  "target-Term as President": "1881-1885"
+ },
+ {
+  "source-State": "New York",
+  "source-Presidents per state": 6,
+  "source-Presidents": "Grover Cleveland*",
+  "source-#th President": 22,
+  "target-President": "22. Grover Cleveland (1837-1908)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1885-1889",
+  "target-Vice-President": "Thomas Hendriks"
+ },
+ {
+  "source-State": "Indiana",
+  "source-Presidents per state": 1,
+  "source-Presidents": "Benjamin Harrison*",
+  "source-#th President": 23,
+  "target-President": "23. Benjamin Harrison (1833-1901)",
+  "target-Party": "Republican",
+  "target-Term as President": "1889-1893",
+  "target-Vice-President": "Levi Morton"
+ },
+ {
+  "source-State": "New York",
+  "source-Presidents per state": 6,
+  "source-Presidents": "Grover Cleveland*",
+  "source-#th President": 24,
+  "target-President": "24. Grover Cleveland (1837-1908)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1893-1897",
+  "target-Vice-President": "Adlai Stevenson"
+ },
+ {
+  "source-State": "Ohio",
+  "source-Presidents per state": 6,
+  "source-Presidents": "William McKinley*",
+  "source-#th President": 25,
+  "target-President": "25. William McKinley (1843-1901)",
+  "target-Party": "Republican",
+  "target-Term as President": "1897-1901",
+  "target-Vice-President": "Garret Hobart Theodore Roosevelt"
+ },
+ {
+  "source-State": "New York",
+  "source-Presidents per state": 6,
+  "source-Presidents": "Theodore Roosevelt*",
+  "source-#th President": 26,
+  "target-President": "26. Theodore Roosevelt (1858-1919)",
+  "target-Party": "Republican",
+  "target-Term as President": "1901-1909",
+  "target-Vice-President": "Charles Fairbanks"
+ },
+ {
+  "source-State": "Ohio",
+  "source-Presidents per state": 6,
+  "source-Presidents": "William Taft*",
+  "source-#th President": 27,
+  "target-President": "27. William Taft (1857-1930)",
+  "target-Party": "Republican",
+  "target-Term as President": "1909-1913",
+  "target-Vice-President": "James Sherman"
+ },
+ {
+  "source-State": "New Jersey",
+  "source-Presidents per state": 1,
+  "source-Presidents": "Woodrow Wilson*",
+  "source-#th President": 28,
+  "target-President": "28. Woodrow Wilson (1856-1924)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1913-1921",
+  "target-Vice-President": "Thomas Marshall"
+ },
+ {
+  "source-State": "Ohio",
+  "source-Presidents per state": 6,
+  "source-Presidents": "Warren Harding*",
+  "source-#th President": 29,
+  "target-President": "29. Warren G. Harding (1865-1923)",
+  "target-Party": "Republican",
+  "target-Term as President": "1921-1923",
+  "target-Vice-President": "Calvin Coolidge"
+ },
+ {
+  "source-State": "Massachusetts",
+  "source-Presidents per state": 4,
+  "source-Presidents": "Calvin Coolidge*",
+  "source-#th President": 30,
+  "target-President": "30. Calvin Coolidge (1872-1933)",
+  "target-Party": "Republican",
+  "target-Term as President": "1923-1929",
+  "target-Vice-President": "Charles Dawes"
+ },
+ {
+  "source-State": "California",
+  "source-Presidents per state": 3,
+  "source-Presidents": "Herbert Hoover*",
+  "source-#th President": 31,
+  "target-President": "31. Herbert C. Hoover (1874-1964)",
+  "target-Party": "Republican",
+  "target-Term as President": "1929-1933",
+  "target-Vice-President": "Charles Curtis"
+ },
+ {
+  "source-State": "New York",
+  "source-Presidents per state": 6,
+  "source-Presidents": "Franklin Roosevelt*",
+  "source-#th President": 32,
+  "target-President": "32. Franklin D. Roosevelt (1882-1945)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1933-1945",
+  "target-Vice-President": "John Garner Henry Wallace Harry S. Truman"
+ },
+ {
+  "source-State": "Missouri",
+  "source-Presidents per state": 1,
+  "source-Presidents": "Harry Truman*",
+  "source-#th President": 33,
+  "target-President": "33. Harry S. Truman (1884-1972)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1945-1953",
+  "target-Vice-President": "Alben Barkley"
+ },
+ {
+  "source-State": "Kansas",
+  "source-Presidents per state": 1,
+  "source-Presidents": "Dwight Eisenhower*",
+  "source-#th President": 34,
+  "target-President": "34. Dwight D. Eisenhower (1890-1969)",
+  "target-Party": "Republican",
+  "target-Term as President": "1953-1961",
+  "target-Vice-President": "Richard Milhous Nixon"
+ },
+ {
+  "source-State": "Massachusetts",
+  "source-Presidents per state": 4,
+  "source-Presidents": "John Kennedy*",
+  "source-#th President": 35,
+  "target-President": "35. John F. Kennedy (1917-1963)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1961-1963",
+  "target-Vice-President": "Lyndon Johnson"
+ },
+ {
+  "source-State": "Texas",
+  "source-Presidents per state": 3,
+  "source-Presidents": "Lyndon Johnson*",
+  "source-#th President": 36,
+  "target-President": "36. Lyndon B. Johnson (1908-1973)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1963-1969",
+  "target-Vice-President": "Hubert Humphrey"
+ },
+ {
+  "source-State": "California",
+  "source-Presidents per state": 3,
+  "source-Presidents": "Richard Nixon*",
+  "source-#th President": 37,
+  "target-President": "37. Richard M. Nixon (1913-1994)",
+  "target-Party": "Republican",
+  "target-Term as President": "1969-1974",
+  "target-Vice-President": "Spiro Agnew Gerald R. Ford"
+ },
+ {
+  "source-State": "Michigan",
+  "source-Presidents per state": 1,
+  "source-Presidents": "Gerald R. Ford*",
+  "source-#th President": 38,
+  "target-President": "38. Gerald R. Ford (1913- 2006)",
+  "target-Party": "Republican",
+  "target-Term as President": "1974-1977",
+  "target-Vice-President": "Nelson Rockefeller"
+ },
+ {
+  "source-State": "Georgia",
+  "source-Presidents per state": 1,
+  "source-Presidents": "James Carter*",
+  "source-#th President": 39,
+  "target-President": "39. James Carter (1924-)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1977-1981",
+  "target-Vice-President": "Walter Mondale"
+ },
+ {
+  "source-State": "California",
+  "source-Presidents per state": 3,
+  "source-Presidents": "Ronald W. Reagan*",
+  "source-#th President": 40,
+  "target-President": "40. Ronald W. Reagan (1911- 2004)",
+  "target-Party": "Republican",
+  "target-Term as President": "1981-1989",
+  "target-Vice-President": "George H. W. Bush"
+ },
+ {
+  "source-State": "Texas",
+  "source-Presidents per state": 3,
+  "source-Presidents": "George H. W. Bush*",
+  "source-#th President": 41,
+  "target-President": "41. George H. W. Bush (1924-)",
+  "target-Party": "Republican",
+  "target-Term as President": "1989-1993",
+  "target-Vice-President": "James Danforth (Dan) Quayle"
+ },
+ {
+  "source-State": "Arkansas",
+  "source-Presidents per state": 1,
+  "source-Presidents": "Bill Clinton*",
+  "source-#th President": 42,
+  "target-President": "42. Bill Clinton (1946-)",
+  "target-Party": "Democrat",
+  "target-Term as President": "1993-2001",
+  "target-Vice-President": "Al Gore"
+ },
+ {
+  "source-State": "Texas",
+  "source-Presidents per state": 3,
+  "source-Presidents": "George W. Bush*",
+  "source-#th President": 43,
+  "target-President": "43. George W. Bush (1946-)",
+  "target-Party": "Republican",
+  "target-Term as President": "2001-2009",
+  "target-Vice-President": "Richard Cheney"
+ },
+ {
+  "source-State": "Illinois",
+  "source-Presidents per state": 3,
+  "source-Presidents": "Barack Obama*",
+  "source-#th President": 44,
+  "target-President": "44. Barack Obama (1961-)",
+  "target-Party": "Democrat",
+  "target-Term as President": "2009-",
+  "target-Vice-President": "Joseph Biden"
+ }
+]

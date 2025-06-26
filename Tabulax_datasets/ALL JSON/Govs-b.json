@@ -1,0 +1,252 @@
+[
+ {
+  "source-Governor": "Rick Perry 1",
+  "source-Party": "Republican",
+  "source-Years in Office": "December 21 2000 - January 20 2015",
+  "source-Legislatures as Governor*": "76th – 84th",
+  "target-Governor's Name": "Gov. Rick Perry",
+  "target-State": "Texas",
+  "target-Time in Office": "(2000 - 2015)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "George W. Bush 2",
+  "source-Party": "Republican",
+  "source-Years in Office": "January 17 1995 - December 21 2000",
+  "source-Legislatures as Governor*": "74th – 76th",
+  "target-Governor's Name": "Gov. George W. Bush",
+  "target-State": "Texas",
+  "target-Time in Office": "(1995 - 2000)",
+  "target-Party": "Republican"
+ },
+ {
+  "source-Governor": "Ann W. Richards",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 15 1991 - January 17 1995",
+  "source-Legislatures as Governor*": "72nd – 74th",
+  "target-Governor's Name": "Gov. Dorothy Ann Willis Richards",
+  "target-State": "Texas",
+  "target-Time in Office": "(1991 - 1995)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Mark W. White Jr.",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 18 1983 - January 20 1987",
+  "source-Legislatures as Governor*": "68th – 70th",
+  "target-Governor's Name": "Gov. Mark White",
+  "target-State": "Texas",
+  "target-Time in Office": "(1983 - 1987)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Dolph Briscoe",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 16 1973 - January 16 1979",
+  "source-Legislatures as Governor*": "63rd – 66th",
+  "target-Governor's Name": "Gov. Dolph Briscoe",
+  "target-State": "Texas",
+  "target-Time in Office": "(1973 - 1979)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Preston Smith",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 21 1969 - January 16 1973",
+  "source-Legislatures as Governor*": "61st – 63rd",
+  "target-Governor's Name": "Gov. Preston Smith",
+  "target-State": "Texas",
+  "target-Time in Office": "(1969 - 1973)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "John B. Connally Jr.",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 15 1963 - January 21 1969",
+  "source-Legislatures as Governor*": "58th – 61st",
+  "target-Governor's Name": "Gov. John Bowden Connally",
+  "target-State": "Texas",
+  "target-Time in Office": "(1963 - 1969)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Price Daniel Sr.",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 15 1957 - January 15 1963",
+  "source-Legislatures as Governor*": "55th – 58th",
+  "target-Governor's Name": "Gov. Price Daniel",
+  "target-State": "Texas",
+  "target-Time in Office": "(1957 - 1963)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Robert Allan Shivers 3",
+  "source-Party": "Democrat",
+  "source-Years in Office": "July 11 1949 - January 15 1957",
+  "source-Legislatures as Governor*": "51st – 55th",
+  "target-Governor's Name": "Gov. Allan Shivers",
+  "target-State": "Texas",
+  "target-Time in Office": "(1949 - 1957)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Beauford H. Jester 4",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 21 1947 - July 11 1949",
+  "source-Legislatures as Governor*": "50th – 51st",
+  "target-Governor's Name": "Gov. Beauford Halbert Jester",
+  "target-State": "Texas",
+  "target-Time in Office": "(1947 - 1949)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Coke R. Stevenson",
+  "source-Party": "Democrat",
+  "source-Years in Office": "August 4 1941 - January 21 1947",
+  "source-Legislatures as Governor*": "47th – 50th",
+  "target-Governor's Name": "Gov. Coke R. Stevenson",
+  "target-State": "Texas",
+  "target-Time in Office": "(1941 - 1947)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "W. Lee O'Daniel 5",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 17 1939 - August 4 1941",
+  "source-Legislatures as Governor*": "46th – 47th",
+  "target-Governor's Name": "Gov. Wilbert Lee O'Daniel",
+  "target-State": "Texas",
+  "target-Time in Office": "(1939 - 1941)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "James V Allred",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 15 1935 - January 17 1939",
+  "source-Legislatures as Governor*": "44th – 46th",
+  "target-Governor's Name": "Gov. James V. Allred",
+  "target-State": "Texas",
+  "target-Time in Office": "(1935 - 1939)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Ross S. Sterling",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 20 1931 - January 17 1933",
+  "source-Legislatures as Governor*": "42nd – 43rd",
+  "target-Governor's Name": "Gov. Ross S. Sterling",
+  "target-State": "Texas",
+  "target-Time in Office": "(1931 - 1933)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Daniel J. Moody Jr.",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 17 1927 - January 20 1931",
+  "source-Legislatures as Governor*": "40th – 42nd",
+  "target-Governor's Name": "Gov. Daniel J. Moody",
+  "target-State": "Texas",
+  "target-Time in Office": "(1927 - 1931)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Pat M. Neff",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 18 1921 - January 20 1925",
+  "source-Legislatures as Governor*": "37th – 39th",
+  "target-Governor's Name": "Gov. Pat Morris Neff",
+  "target-State": "Texas",
+  "target-Time in Office": "(1921 - 1925)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "William P. Hobby",
+  "source-Party": "Democrat",
+  "source-Years in Office": "August 25 1917 - January 18 1921",
+  "source-Legislatures as Governor*": "35th – 37th",
+  "target-Governor's Name": "Gov. William Pettus Hobby",
+  "target-State": "Texas",
+  "target-Time in Office": "(1917 - 1921)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "James E. Ferguson 6",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 19 1915 - August 25 1917",
+  "source-Legislatures as Governor*": "34th – 35th",
+  "target-Governor's Name": "Gov. James Edward Ferguson",
+  "target-State": "Texas",
+  "target-Time in Office": "(1915 - 1917)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Oscar Branch Colquitt",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 17 1911 - January 19 1915",
+  "source-Legislatures as Governor*": "32nd – 34th",
+  "target-Governor's Name": "Gov. Oscar Branch Colquitt",
+  "target-State": "Texas",
+  "target-Time in Office": "(1911 - 1915)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Thomas Mitchell Campbell",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 15 1907 - January 17 1911",
+  "source-Legislatures as Governor*": "30th – 32nd",
+  "target-Governor's Name": "Gov. Thomas Mitchell Campbell",
+  "target-State": "Texas",
+  "target-Time in Office": "(1907 - 1911)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "S.W.T. Lanham",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 20 1903 - January 15 1907",
+  "source-Legislatures as Governor*": "28th – 30th",
+  "target-Governor's Name": "Gov. Samuel Willis Tucker Lanham",
+  "target-State": "Texas",
+  "target-Time in Office": "(1903 - 1907)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Joseph D. Sayers",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 17 1899 - January 20 1903",
+  "source-Legislatures as Governor*": "26th – 28th",
+  "target-Governor's Name": "Gov. Joseph Draper Sayers",
+  "target-State": "Texas",
+  "target-Time in Office": "(1899 - 1903)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Charles A. Culberson",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 15 1895 - January 17 1899",
+  "source-Legislatures as Governor*": "24th – 26th",
+  "target-Governor's Name": "Gov. Charles Allen Culberson",
+  "target-State": "Texas",
+  "target-Time in Office": "(1895 - 1899)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "James Stephen Hogg",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 20 1891 - January 15 1895",
+  "source-Legislatures as Governor*": "22nd – 24th",
+  "target-Governor's Name": "Gov. James Stephen Hogg",
+  "target-State": "Texas",
+  "target-Time in Office": "(1891 - 1895)",
+  "target-Party": "Democrat"
+ },
+ {
+  "source-Governor": "Lawrence Sullivan Ross",
+  "source-Party": "Democrat",
+  "source-Years in Office": "January 18 1887 - January 20 1891",
+  "source-Legislatures as Governor*": "20th – 22nd",
+  "target-Governor's Name": "Gov. Lawrence Sullivan Ross",
+  "target-State": "Texas",
+  "target-Time in Office": "(1887 - 1891)",
+  "target-Party": "Democrat"
+ }
+]
